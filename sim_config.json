@@ -1,0 +1,12 @@
+{
+    "number_of_users": 500,
+    "top_websites": 1000,
+    "average_visits_per_user": 138,
+    "average_ads": 20,
+    "targeted_ads_percentage": 0.1,
+    "targeting_probability": 0.5,
+    "number_of_simulations": 30,
+    "debug": "False",
+    "randomize_users": "True",
+    "results_dir": "test_500_ran"
+}
